@@ -1,4 +1,6 @@
 # intern
+
+JUST I'M DEVELOP THE ENTAIRE CODE NOT WEB PAGE DESIGN . AND ENTAIRE WEB PAGE CODE IS  IAM DEVELOP
 Real-time Collaboration: Multiple team members can work on the same project simultaneously, making it easy for designers, developers, and stakeholders to collaborate in real-time.
 
 Cloud-Based Design: Figma operates in the cloud, allowing users to access their projects from any device with an internet connection. This eliminates the need for manual file transfers and ensures that everyone is working on the latest version of a design.
